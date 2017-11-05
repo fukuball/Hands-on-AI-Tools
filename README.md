@@ -129,7 +129,9 @@ Jupyter Notebook 會開啟一個伺服器，通常網址是：[http://localhost:
 
 ### 回歸預測
 
-1. 美國波士頓房價問題：使用 Linear Regression、Stochastic Gradient Descent Regression、Support Vector Machine Regression
+1. 美國波士頓房價問題：使用 Linear Regression、Stochastic Gradient Descent Regression
+
+2. 美國波士頓房價問題：使用 Support Vector Machine Regression、Cross Validation 的技巧
 
 ## 非監督式學習
 
