@@ -139,4 +139,3 @@ Jupyter Notebook 會開啟一個伺服器，通常網址是：[http://localhost:
 
 1. Jieba 中文斷詞工具使用
 2. 使用 LSA 潛在語意分析
-
